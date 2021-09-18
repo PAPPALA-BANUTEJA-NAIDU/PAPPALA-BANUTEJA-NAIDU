@@ -9,7 +9,7 @@
 
 
 <!--
-**surya-putra/surya-putra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**bhanu-pappala/bhanu-pappala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -23,17 +23,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!-- [![Bhanu's GitHub stats](https://github-readme-stats.vercel.app/api?username=surya-putra&show_icons=true&theme=gruvbox&layout=compact)](https://github.com/surya-putra)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=surya-putra&layout=compact&theme=dark)](https://github.com/surya-putra)
+<!-- [![Bhanu's GitHub stats](https://github-readme-stats.vercel.app/api?username=bhanu-pappala&show_icons=true&theme=gruvbox&layout=compact)](https://github.com/bhanu-pappala)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhanu-pappala&layout=compact&theme=dark)](https://github.com/bhanu-pappala)
 -->
 
 ## &#x1f4c8; GitHub Stats
 
-<a href="https://github.com/surya-putra/surya-putra">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=surya-putra&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+<a href="https://github.com/bhanu-pappala/bhanu-pappala">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhanu-pappala&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
-<a href="https://github.com/surya-putra/surya-putra">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=surya-putra&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="surya-putra's GitHub Stats" />
+<a href="https://github.com/bhanu-pappala/bhanu-pappala">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=bhanu-pappala&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="bhanu-pappala's GitHub Stats" />
 </a>
 
 
