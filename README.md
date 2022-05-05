@@ -4,8 +4,8 @@
 
 
 <!-- Your badges -->
-[![Linkedin](https://img.shields.io/badge/-BhanuTeja-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/bhanutejap/)
-[![Gmail](https://img.shields.io/badge/-BhanuTeja-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:p.bhanuteja.pappala@gmail.com)
+<!-- [![Linkedin](https://img.shields.io/badge/-Bhanu-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/bhanutejap/) -->
+<!-- [![Gmail](https://img.shields.io/badge/-Bhanu-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:p.bhanuteja.pappala@gmail.com) -->
 
 
 <!--
