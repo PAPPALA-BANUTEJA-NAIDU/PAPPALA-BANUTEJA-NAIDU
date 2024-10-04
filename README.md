@@ -1,7 +1,5 @@
 ## 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
-<img align='right' src='./photos/2095874.jpg' width='440"'>
-
 
 <!-- Your badges -->
 <!-- [![Linkedin](https://img.shields.io/badge/-Bhanu-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/bhanutejap/) -->
